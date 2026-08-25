@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "墨渊",
+      "hasCanvas": false,
+      "bodyTextLen": 304,
+      "bodyTextHash": "37232f61a3628a129068fcb907d2937965c58ff454129fd8137dcf816a3b0bf0",
+      "bodyTextPrefix": "渊 墨渊 LOCK STUDIO 用这张立绘，做成你的手机屏保。 12:19 8月25日 星期二 墨渊 MO YUNN 氛围 七",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "墨渊",
+      "hasCanvas": false,
+      "bodyTextLen": 243,
+      "bodyTextHash": "cd9521d7a14921ebffaa31e8243f065692998475fca3f39fde89b172aab645ea",
+      "bodyTextPrefix": "渊 墨渊 LOCK STUDIO 12:19 8月25日 星期二 墨渊 MO YUNN 氛围 七种夜色，同一位墨渊。点选后可微调",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
